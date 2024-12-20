@@ -1,0 +1,1 @@
+layerScore = calScore(playerCards[0],play
